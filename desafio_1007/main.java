@@ -1,3 +1,4 @@
+package desafio_1007;
 import java.util.Locale;
 import java.util.Scanner;
 
